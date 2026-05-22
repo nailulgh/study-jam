@@ -1,0 +1,157 @@
+[
+  {
+    "_id": {
+      "$oid": "65b2a1eec3d3a010d8f02001"
+    },
+    "name": "Wireless Noise-Canceling Headphones",
+    "description": "High-quality over-ear wireless headphones with active noise cancellation and 30-hour battery life.",
+    "price": 299.99,
+    "stock": 50,
+    "category_id": "65b2a1a8c3d3a010d8f01001",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=800&q=80"
+    ],
+    "created_at": {
+      "$date": "2024-01-02T10:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2024-01-02T10:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b2a1eec3d3a010d8f02002"
+    },
+    "name": "Ultra Slim 4K Smart TV",
+    "description": "55-inch Ultra Slim 4K Smart TV with HDR10+, voice assistant, and seamless streaming capabilities.",
+    "price": 599.99,
+    "stock": 25,
+    "category_id": "65b2a1a8c3d3a010d8f01001",
+    "images": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&q=80",
+      "https://images.unsplash.com/photo-1593784991095-a205069470b6?w=800&q=80"
+    ],
+    "created_at": {
+      "$date": "2024-01-02T10:30:00Z"
+    },
+    "updated_at": {
+      "$date": "2024-01-02T10:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b2a1eec3d3a010d8f02003"
+    },
+    "name": "Smartphone Pro Max 5G",
+    "description": "Latest 5G smartphone with advanced camera system, 256GB storage, and all-day battery life.",
+    "price": 999.00,
+    "stock": 100,
+    "category_id": "65b2a1a8c3d3a010d8f01001",
+    "images": [
+      "https://images.unsplash.com/photo-1598327105666-5b89351cb315?w=800&q=80",
+      "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf?w=800&q=80"
+    ],
+    "created_at": {
+      "$date": "2024-01-03T11:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2024-01-03T11:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b2a1eec3d3a010d8f02004"
+    },
+    "name": "Classic Denim Jacket",
+    "description": "A timeless blue denim jacket with a comfortable fit and durable stitching.",
+    "price": 69.99,
+    "stock": 40,
+    "category_id": "65b2a1a8c3d3a010d8f01002",
+    "images": [
+      "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=800&q=80"
+    ],
+    "created_at": {
+      "$date": "2024-01-04T12:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2024-01-04T12:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b2a1eec3d3a010d8f02005"
+    },
+    "name": "Minimalist Sneakers",
+    "description": "White minimalist sneakers perfect for casual outings and everyday wear.",
+    "price": 89.99,
+    "stock": 80,
+    "category_id": "65b2a1a8c3d3a010d8f01002",
+    "images": [
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=800&q=80"
+    ],
+    "created_at": {
+      "$date": "2024-01-05T08:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2024-01-05T08:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b2a1eec3d3a010d8f02006"
+    },
+    "name": "Automatic Espresso Machine",
+    "description": "Brew professional-quality coffee at home with this fully automatic espresso machine.",
+    "price": 450.00,
+    "stock": 15,
+    "category_id": "65b2a1a8c3d3a010d8f01003",
+    "images": [
+      "https://images.unsplash.com/photo-1517686469429-8bdb88b9f907?w=800&q=80"
+    ],
+    "created_at": {
+      "$date": "2024-01-06T09:30:00Z"
+    },
+    "updated_at": {
+      "$date": "2024-01-06T09:30:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b2a1eec3d3a010d8f02007"
+    },
+    "name": "Ergonomic Office Chair",
+    "description": "Adjustable ergonomic chair with lumbar support to keep you comfortable during long work hours.",
+    "price": 199.50,
+    "stock": 35,
+    "category_id": "65b2a1a8c3d3a010d8f01003",
+    "images": [
+      "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?w=800&q=80"
+    ],
+    "created_at": {
+      "$date": "2024-01-07T14:15:00Z"
+    },
+    "updated_at": {
+      "$date": "2024-01-07T14:15:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65b2a1eec3d3a010d8f02008"
+    },
+    "name": "Smart Watch Series 8",
+    "description": "Track your fitness and stay connected with the latest Smart Watch Series 8.",
+    "price": 399.00,
+    "stock": 120,
+    "category_id": "65b2a1a8c3d3a010d8f01001",
+    "images": [
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800&q=80"
+    ],
+    "created_at": {
+      "$date": "2024-01-08T09:00:00Z"
+    },
+    "updated_at": {
+      "$date": "2024-01-08T09:00:00Z"
+    }
+  }
+]
